@@ -1,3 +1,11 @@
 # Lab01_Tomchuk
-Lab01_Tomchuk
-![alt text](https://github.com/vtomchuk1/Lab01_Tomchuk/image/ok.jpg?raw=true)
+Lab01_Tomchuk 
+</br>
+ok status
+</br>
+![alt text](https://github.com/vtomchuk1/Lab01_Tomchuk/blob/main/image/ok.jpg?raw=true)
+</br>
+error status
+</br>
+![alt text](https://github.com/vtomchuk1/Lab01_Tomchuk/blob/main/image/error.jpg?raw=true)
+</br>
