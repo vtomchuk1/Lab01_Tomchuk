@@ -1,0 +1,10 @@
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\bin\Debug\Lab01_Tomchuk.exe.config
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\bin\Debug\Lab01_Tomchuk.exe
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\bin\Debug\Lab01_Tomchuk.pdb
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.csprojAssemblyReference.cache
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.Properties.Resources.resources
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.csproj.GenerateResource.cache
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.csproj.CoreCompileInputs.cache
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.exe
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.pdb
+C:\Users\Xtabich\Desktop\Lab01_Tomchuk\Lab01_Tomchuk\Lab01_Tomchuk\obj\Debug\Lab01_Tomchuk.Lab01_Tomchuk.resources
