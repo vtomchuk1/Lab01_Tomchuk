@@ -1,6 +1,5 @@
 # Lab01_Tomchuk
 # create VS 2017
-</br>
 ok status
 </br>
 ![alt text](https://github.com/vtomchuk1/Lab01_Tomchuk/blob/main/image/ok.jpg?raw=true)
