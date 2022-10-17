@@ -1,6 +1,5 @@
 # Lab01_Tomchuk
 # create VS 2017
-Lab01_Tomchuk 
 </br>
 ok status
 </br>
